@@ -21,6 +21,16 @@ app_license = "mit"
 # 	}
 # ]
 
+fixtures = [
+    "Workflow",
+    "Workflow Document State",
+    "Workflow Transition",
+    "Workflow State",
+    "Workflow Action",
+    "Workflow Action Master",
+    "Workflow Action Permitted Role",
+]
+
 # Includes in <head>
 # ------------------
 

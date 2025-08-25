@@ -1,0 +1,92 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "question-sign",
+  "modified": "2025-08-25 02:33:28.367566",
+  "name": "Pending",
+  "style": "",
+  "workflow_state_name": "Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "ok-sign",
+  "modified": "2025-08-25 02:33:28.368824",
+  "name": "Approved",
+  "style": "Success",
+  "workflow_state_name": "Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "remove",
+  "modified": "2025-08-25 02:33:28.369826",
+  "name": "Rejected",
+  "style": "Danger",
+  "workflow_state_name": "Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:04:05.954595",
+  "name": "New Contact",
+  "style": "",
+  "workflow_state_name": "New Contact"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:06:33.534886",
+  "name": "Send Mail",
+  "style": "",
+  "workflow_state_name": "Send Mail"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:21:25.165065",
+  "name": "S1 - No Response",
+  "style": "",
+  "workflow_state_name": "S1 - No Response"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:23:38.260623",
+  "name": "S2 - Negative",
+  "style": "",
+  "workflow_state_name": "S2 - Negative"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:24:40.919133",
+  "name": "S3 - Uncertain",
+  "style": "",
+  "workflow_state_name": "S3 - Uncertain"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:25:35.911906",
+  "name": "S0 - Positive",
+  "style": "",
+  "workflow_state_name": "S0 - Positive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-25 16:26:58.275799",
+  "name": "S4 - Redirect",
+  "style": "",
+  "workflow_state_name": "S4 - Redirect"
+ }
+]

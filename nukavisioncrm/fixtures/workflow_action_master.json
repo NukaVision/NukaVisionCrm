@@ -1,0 +1,58 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 02:33:28.382573",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 02:33:28.383606",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 02:33:28.384633",
+  "name": "Review",
+  "workflow_action_name": "Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:33:58.276794",
+  "name": "Positive",
+  "workflow_action_name": "Positive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:34:14.060107",
+  "name": "Redirect",
+  "workflow_action_name": "Redirect"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:34:41.395291",
+  "name": "Uncertain",
+  "workflow_action_name": "Uncertain"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:35:57.024495",
+  "name": "No Response",
+  "workflow_action_name": "No Response"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:36:32.894368",
+  "name": "Negative",
+  "workflow_action_name": "Negative"
+ }
+]
