@@ -1,1 +1,107 @@
-[]
+[
+ {
+  "completed_by": "yunus.akdal@gmail.com",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-25 17:36:21.254423",
+  "name": "47kh1rs40e",
+  "permitted_roles": [
+   {
+    "parent": "47kh1rs40e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Information",
+  "reference_name": "Yunus-AKDAL-00001",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Send Mail"
+ },
+ {
+  "completed_by": "yunus.akdal@gmail.com",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-25 18:29:26.949219",
+  "name": "3b5ndosash",
+  "permitted_roles": [
+   {
+    "parent": "3b5ndosash",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Information",
+  "reference_name": "adsdsad--00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Send Mail"
+ },
+ {
+  "completed_by": "yunus.akdal@gmail.com",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-25 18:30:07.002991",
+  "name": "3nmrk2ajo6",
+  "permitted_roles": [
+   {
+    "parent": "3nmrk2ajo6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Information",
+  "reference_name": "Yunus-AKDAL-00001",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending"
+ },
+ {
+  "completed_by": "yunus.akdal@gmail.com",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-25 18:35:46.755550",
+  "name": "71rhd29liq",
+  "permitted_roles": [
+   {
+    "parent": "71rhd29liq",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Information",
+  "reference_name": "adsdsad--00002",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Pending"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 00:25:56.672660",
+  "name": "k7e4ublsk9",
+  "permitted_roles": [
+   {
+    "parent": "k7e4ublsk9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "bim",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Company"
+ }
+]

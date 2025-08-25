@@ -2,13 +2,6 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 02:33:28.382573",
-  "name": "Approve",
-  "workflow_action_name": "Approve"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow Action Master",
   "modified": "2025-08-25 02:33:28.383606",
   "name": "Reject",
   "workflow_action_name": "Reject"
@@ -30,13 +23,6 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:34:14.060107",
-  "name": "Redirect",
-  "workflow_action_name": "Redirect"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow Action Master",
   "modified": "2025-08-25 16:34:41.395291",
   "name": "Uncertain",
   "workflow_action_name": "Uncertain"
@@ -51,8 +37,36 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 16:34:14.060107",
+  "name": "Redirect",
+  "workflow_action_name": "Redirect"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 00:16:06.087045",
+  "name": "Contact Lost",
+  "workflow_action_name": "Contact Lost"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
   "modified": "2025-08-25 16:36:32.894368",
   "name": "Negative",
   "workflow_action_name": "Negative"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 00:14:38.615302",
+  "name": "New Offer",
+  "workflow_action_name": "New Offer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-25 02:33:28.382573",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
  }
 ]

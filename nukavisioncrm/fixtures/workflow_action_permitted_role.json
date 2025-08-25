@@ -1,1 +1,102 @@
-[]
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 17:27:08.846692",
+  "name": "ur0r2tmeje",
+  "parent": "ur0465931v",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.900835",
+  "name": "mm6ufempbo",
+  "parent": "v4bsnjmp39",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.915915",
+  "name": "mm7v73pvjk",
+  "parent": "vaaodhc4lc",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.929528",
+  "name": "mm758307jp",
+  "parent": "vgimch11o4",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.943219",
+  "name": "mm7l1u44m2",
+  "parent": "47kh1rs40e",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.957139",
+  "name": "mm76niii71",
+  "parent": "3b5ndosash",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.970943",
+  "name": "mm7fdkuji6",
+  "parent": "3nmrk2ajo6",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-25 23:35:31.985407",
+  "name": "mm71kqrgi8",
+  "parent": "71rhd29liq",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-26 00:18:28.619813",
+  "name": "freh00me0k",
+  "parent": "frehfbs8d0",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Permitted Role",
+  "modified": "2025-08-26 00:25:56.672660",
+  "name": "k7eo820bue",
+  "parent": "k7e4ublsk9",
+  "parentfield": "permitted_roles",
+  "parenttype": "Workflow Action",
+  "role": "All"
+ }
+]
