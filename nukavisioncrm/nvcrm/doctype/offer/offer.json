@@ -7,8 +7,13 @@
  "engine": "InnoDB",
  "field_order": [
   "offer_name",
-  "text_gdxr",
-  "send_mail"
+  "state",
+  "company",
+  "primary_contact",
+  "valid_until",
+  "next_action_due",
+  "reason",
+  "is_active"
  ],
  "fields": [
   {
@@ -17,20 +22,49 @@
    "label": "Offer Name"
   },
   {
-   "fieldname": "text_gdxr",
-   "fieldtype": "Text",
-   "label": "Mail Context"
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "label": "Company",
+   "options": "Company"
   },
   {
-   "fieldname": "send_mail",
-   "fieldtype": "Button",
-   "label": "Send Mail"
+   "fieldname": "primary_contact",
+   "fieldtype": "Link",
+   "label": "Primary Contact",
+   "options": "Contact Information"
+  },
+  {
+   "fieldname": "valid_until",
+   "fieldtype": "Date",
+   "label": "Valid Until"
+  },
+  {
+   "fieldname": "next_action_due",
+   "fieldtype": "Date",
+   "label": "Next Action Due"
+  },
+  {
+   "fieldname": "reason",
+   "fieldtype": "Small Text",
+   "label": "Reason"
+  },
+  {
+   "fieldname": "state",
+   "fieldtype": "Link",
+   "label": "State",
+   "options": "Workflow State"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_active",
+   "fieldtype": "Check",
+   "label": "Is Active"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-25 23:38:29.332971",
+ "modified": "2025-08-27 12:00:25.483983",
  "modified_by": "Administrator",
  "module": "nvcrm",
  "name": "Offer",

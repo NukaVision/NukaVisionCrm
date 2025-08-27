@@ -11,15 +11,15 @@ app_license = "mit"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "nukavisioncrm",
-# 		"logo": "/assets/nukavisioncrm/logo.png",
-# 		"title": "nvcrm",
-# 		"route": "/nukavisioncrm",
-# 		"has_permission": "nukavisioncrm.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "nukavisioncrm",
+		"logo": "/assets/nukavisioncrm/logo.png",
+		"title": "nvcrm",
+		"route": "/nukavisioncrm",
+		"has_permission": "nukavisioncrm.api.permission.has_app_permission"
+	}
+]
 
 fixtures = [
     "Workflow",
@@ -28,8 +28,22 @@ fixtures = [
     "Workflow State",
     "Workflow Action",
     "Workflow Action Master",
-    "Workflow Action Permitted Role",
+    "Workflow Action Permitted Role"
 ]
+
+doc_events = {
+    "Company": {
+        # Workflow ile “Start” aksiyonu basılınca status=Find Contact olacak;
+        # biz bunu yakalayıp ilk engagement’ı açıyoruz.
+        "on_update": "nukavisioncrm.services.company.on_company_update"
+    },
+    # "Contact Engagement": {
+    #     # Contact’tan gelen yanıta göre Company’yi ilerleteceğiz
+    #     "on_update": "agency_crm.services.engagement.on_engagement_update"
+    # }
+}
+
+
 
 # Includes in <head>
 # ------------------
@@ -153,6 +167,17 @@ fixtures = [
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
 # 	}
+# }
+
+# doc_events = {
+#     # Company workflow state değişince alt akışları tetikle
+#     "Company": {
+#         "on_update": "nukavisioncrm.nvcrm.orchestrator.company_on_update"
+#     },
+#     # # Gelen e-postaları S1–S5 makinesine yedir
+#     # "Communication": {
+#     #     "after_insert": "your_app.nvcrm.contact_machine.on_communication_after_insert"
+#     # },
 # }
 
 # Scheduled Tasks

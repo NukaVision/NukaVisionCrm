@@ -1,107 +1,380 @@
 [
  {
-  "completed_by": "yunus.akdal@gmail.com",
-  "completed_by_role": "All",
-  "docstatus": 0,
-  "doctype": "Workflow Action",
-  "modified": "2025-08-25 17:36:21.254423",
-  "name": "47kh1rs40e",
-  "permitted_roles": [
-   {
-    "parent": "47kh1rs40e",
-    "parentfield": "permitted_roles",
-    "parenttype": "Workflow Action",
-    "role": "All"
-   }
-  ],
-  "reference_doctype": "Contact Information",
-  "reference_name": "Yunus-AKDAL-00001",
-  "status": "Completed",
-  "user": null,
-  "workflow_state": "Send Mail"
- },
- {
-  "completed_by": "yunus.akdal@gmail.com",
-  "completed_by_role": "All",
-  "docstatus": 0,
-  "doctype": "Workflow Action",
-  "modified": "2025-08-25 18:29:26.949219",
-  "name": "3b5ndosash",
-  "permitted_roles": [
-   {
-    "parent": "3b5ndosash",
-    "parentfield": "permitted_roles",
-    "parenttype": "Workflow Action",
-    "role": "All"
-   }
-  ],
-  "reference_doctype": "Contact Information",
-  "reference_name": "adsdsad--00002",
-  "status": "Completed",
-  "user": null,
-  "workflow_state": "Send Mail"
- },
- {
-  "completed_by": "yunus.akdal@gmail.com",
-  "completed_by_role": "All",
-  "docstatus": 0,
-  "doctype": "Workflow Action",
-  "modified": "2025-08-25 18:30:07.002991",
-  "name": "3nmrk2ajo6",
-  "permitted_roles": [
-   {
-    "parent": "3nmrk2ajo6",
-    "parentfield": "permitted_roles",
-    "parenttype": "Workflow Action",
-    "role": "All"
-   }
-  ],
-  "reference_doctype": "Contact Information",
-  "reference_name": "Yunus-AKDAL-00001",
-  "status": "Completed",
-  "user": null,
-  "workflow_state": "Pending"
- },
- {
-  "completed_by": "yunus.akdal@gmail.com",
-  "completed_by_role": "All",
-  "docstatus": 0,
-  "doctype": "Workflow Action",
-  "modified": "2025-08-25 18:35:46.755550",
-  "name": "71rhd29liq",
-  "permitted_roles": [
-   {
-    "parent": "71rhd29liq",
-    "parentfield": "permitted_roles",
-    "parenttype": "Workflow Action",
-    "role": "All"
-   }
-  ],
-  "reference_doctype": "Contact Information",
-  "reference_name": "adsdsad--00002",
-  "status": "Completed",
-  "user": null,
-  "workflow_state": "Pending"
- },
- {
   "completed_by": null,
   "completed_by_role": null,
   "docstatus": 0,
   "doctype": "Workflow Action",
-  "modified": "2025-08-26 00:25:56.672660",
-  "name": "k7e4ublsk9",
+  "modified": "2025-08-26 05:16:03.845144",
+  "name": "u76qr0k5g0",
   "permitted_roles": [
    {
-    "parent": "k7e4ublsk9",
+    "parent": "u76qr0k5g0",
     "parentfield": "permitted_roles",
     "parenttype": "Workflow Action",
     "role": "All"
    }
   ],
   "reference_doctype": "Company",
-  "reference_name": "bim",
+  "reference_name": "asdd",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Won"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 02:08:53.105335",
+  "name": "ghj575sham",
+  "permitted_roles": [
+   {
+    "parent": "ghj575sham",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asd",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 02:09:03.726039",
+  "name": "gkth1odmh8",
+  "permitted_roles": [
+   {
+    "parent": "gkth1odmh8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asd",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 02:09:14.526071",
+  "name": "go9vmumdq3",
+  "permitted_roles": [
+   {
+    "parent": "go9vmumdq3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asd",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 02:09:25.395446",
+  "name": "grlvmcfr1o",
+  "permitted_roles": [
+   {
+    "parent": "grlvmcfr1o",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asd",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Won"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 03:40:04.695854",
+  "name": "5vfu3bo397",
+  "permitted_roles": [
+   {
+    "parent": "5vfu3bo397",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "Bim",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 03:40:12.770322",
+  "name": "61v4ovstus",
+  "permitted_roles": [
+   {
+    "parent": "61v4ovstus",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "Bim",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 03:42:31.200757",
+  "name": "7d8vcq0u2l",
+  "permitted_roles": [
+   {
+    "parent": "7d8vcq0u2l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asdd",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 03:55:24.525806",
+  "name": "eutiqtq2pk",
+  "permitted_roles": [
+   {
+    "parent": "eutiqtq2pk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asdd",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-26 03:59:27.331882",
+  "name": "hapa70276c",
+  "permitted_roles": [
+   {
+    "parent": "hapa70276c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asdd",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Offer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 13:56:01.624921",
+  "name": "qkgqo0ga3l",
+  "permitted_roles": [
+   {
+    "parent": "qkgqo0ga3l",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asda",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 13:56:12.815889",
+  "name": "qo08k20t0r",
+  "permitted_roles": [
+   {
+    "parent": "qo08k20t0r",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asda",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 14:09:58.256323",
+  "name": "2pu0t2v8t9",
+  "permitted_roles": [
+   {
+    "parent": "2pu0t2v8t9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "asda",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 14:25:25.835057",
+  "name": "brql2oggr7",
+  "permitted_roles": [
+   {
+    "parent": "brql2oggr7",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "aaaaa",
   "status": "Open",
   "user": null,
   "workflow_state": "New Company"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 14:43:25.192527",
+  "name": "md3grc515e",
+  "permitted_roles": [
+   {
+    "parent": "md3grc515e",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "1",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 15:02:28.292833",
+  "name": "1ia5j34687",
+  "permitted_roles": [
+   {
+    "parent": "1ia5j34687",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "1",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 15:49:57.934126",
+  "name": "tcr92rccde",
+  "permitted_roles": [
+   {
+    "parent": "tcr92rccde",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000009",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 15:51:12.426457",
+  "name": "u44s62skrn",
+  "permitted_roles": [
+   {
+    "parent": "u44s62skrn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000009",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Wait Answer"
  }
 ]

@@ -2,44 +2,79 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 02:33:28.383606",
-  "name": "Reject",
-  "workflow_action_name": "Reject"
+  "modified": "2025-08-26 00:14:38.615302",
+  "name": "New Offer",
+  "workflow_action_name": "New Offer"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 02:33:28.384633",
-  "name": "Review",
-  "workflow_action_name": "Review"
+  "modified": "2025-08-26 02:05:42.277237",
+  "name": "Start",
+  "workflow_action_name": "Start"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:33:58.276794",
-  "name": "Positive",
-  "workflow_action_name": "Positive"
+  "modified": "2025-08-27 12:06:59.659598",
+  "name": "Try Again",
+  "workflow_action_name": "Try Again"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:34:41.395291",
-  "name": "Uncertain",
-  "workflow_action_name": "Uncertain"
+  "modified": "2025-08-27 13:06:57.510088",
+  "name": "Reminder",
+  "workflow_action_name": "Reminder"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:35:57.024495",
-  "name": "No Response",
-  "workflow_action_name": "No Response"
+  "modified": "2025-08-27 13:07:08.144226",
+  "name": "Sent Reminder",
+  "workflow_action_name": "Sent Reminder"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:34:14.060107",
-  "name": "Redirect",
-  "workflow_action_name": "Redirect"
+  "modified": "2025-08-27 13:35:42.091882",
+  "name": "Budget",
+  "workflow_action_name": "Budget"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:36:37.892696",
+  "name": "Time",
+  "workflow_action_name": "Time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 15:04:29.830567",
+  "name": "Go Back",
+  "workflow_action_name": "Go Back"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 02:01:28.206706",
+  "name": "Lost",
+  "workflow_action_name": "Lost"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-26 02:05:08.101966",
+  "name": "Contact Found",
+  "workflow_action_name": "Contact Found"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 12:16:44.565524",
+  "name": "All Contact Tried",
+  "workflow_action_name": "All Contact Tried"
  },
  {
   "docstatus": 0,
@@ -51,22 +86,71 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 16:36:32.894368",
+  "modified": "2025-08-26 01:43:16.504213",
+  "name": "Won",
+  "workflow_action_name": "Won"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:08:44.064603",
+  "name": "There is Response",
+  "workflow_action_name": "There is Response"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:30:19.032058",
   "name": "Negative",
   "workflow_action_name": "Negative"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-26 00:14:38.615302",
-  "name": "New Offer",
-  "workflow_action_name": "New Offer"
+  "modified": "2025-08-26 02:01:39.857532",
+  "name": "Stalled",
+  "workflow_action_name": "Stalled"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
-  "modified": "2025-08-25 02:33:28.382573",
-  "name": "Approve",
-  "workflow_action_name": "Approve"
+  "modified": "2025-08-27 13:13:17.213893",
+  "name": "Sent Info",
+  "workflow_action_name": "Sent Info"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:21:59.504749",
+  "name": "Positive",
+  "workflow_action_name": "Positive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:38:26.749082",
+  "name": "Absolute No",
+  "workflow_action_name": "Absolute No"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:06:21.753837",
+  "name": "No Answer",
+  "workflow_action_name": "No Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 13:23:20.128425",
+  "name": "Postpone",
+  "workflow_action_name": "Postpone"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-08-27 12:58:41.813349",
+  "name": "Sent Mail",
+  "workflow_action_name": "Sent Mail"
  }
 ]

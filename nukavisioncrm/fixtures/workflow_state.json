@@ -3,100 +3,64 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-25 16:21:25.165065",
-  "name": "S1 - No Response",
+  "modified": "2025-08-26 01:51:43.952779",
+  "name": "Stalled",
   "style": "",
-  "workflow_state_name": "S1 - No Response"
+  "workflow_state_name": "Stalled"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-25 16:06:33.534886",
-  "name": "Send Mail",
+  "modified": "2025-08-27 13:53:10.045720",
+  "name": "Wait Postpone Reminder",
   "style": "",
-  "workflow_state_name": "Send Mail"
+  "workflow_state_name": "Wait Postpone Reminder"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-25 18:34:20.785821",
-  "name": "S2 - Negative",
-  "style": "Danger",
-  "workflow_state_name": "S2 - Negative"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
-  "modified": "2025-08-25 18:35:19.714217",
-  "name": "S3 - Uncertain",
-  "style": "Info",
-  "workflow_state_name": "S3 - Uncertain"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
-  "modified": "2025-08-25 18:34:09.439116",
-  "name": "S0 - Positive",
-  "style": "Success",
-  "workflow_state_name": "S0 - Positive"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
-  "modified": "2025-08-25 16:04:05.954595",
-  "name": "New Contact",
+  "modified": "2025-08-26 01:43:58.931305",
+  "name": "Lost",
   "style": "",
-  "workflow_state_name": "New Contact"
+  "workflow_state_name": "Lost"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-25 18:35:13.406057",
-  "name": "S4 - Redirect",
-  "style": "Info",
-  "workflow_state_name": "S4 - Redirect"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "question-sign",
-  "modified": "2025-08-25 18:34:48.845036",
-  "name": "Pending",
-  "style": "Info",
-  "workflow_state_name": "Pending"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
-  "modified": "2025-08-26 00:32:34.132864",
-  "name": "Force",
+  "modified": "2025-08-27 13:27:42.602748",
+  "name": "Wait Reminder",
   "style": "",
-  "workflow_state_name": "Force"
+  "workflow_state_name": "Wait Reminder"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:08:25.629237",
-  "name": "Contact Found",
-  "style": "Success",
-  "workflow_state_name": "Contact Found"
+  "modified": "2025-08-27 13:20:03.772312",
+  "name": "Go End",
+  "style": "",
+  "workflow_state_name": "Go End"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:12:56.697659",
-  "name": "Success",
-  "style": "Success",
-  "workflow_state_name": "Success"
+  "modified": "2025-08-27 13:33:03.294508",
+  "name": "Wait No Answer Reminder",
+  "style": "",
+  "workflow_state_name": "Wait No Answer Reminder"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 01:43:24.201662",
+  "name": "Won",
+  "style": "",
+  "workflow_state_name": "Won"
  },
  {
   "docstatus": 0,
@@ -111,10 +75,64 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:13:08.288059",
-  "name": "Submit Offer",
-  "style": "Info",
-  "workflow_state_name": "Submit Offer"
+  "modified": "2025-08-27 12:51:12.045940",
+  "name": "New Contact",
+  "style": "",
+  "workflow_state_name": "New Contact"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 01:54:10.814965",
+  "name": "Offer",
+  "style": "",
+  "workflow_state_name": "Offer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:14:23.186318",
+  "name": "Prepare Info",
+  "style": "",
+  "workflow_state_name": "Prepare Info"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:31:42.157713",
+  "name": "Reason Record",
+  "style": "",
+  "workflow_state_name": "Reason Record"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:19:28.700230",
+  "name": "Go Stall",
+  "style": "",
+  "workflow_state_name": "Go Stall"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:20:34.397517",
+  "name": "Go Offer",
+  "style": "",
+  "workflow_state_name": "Go Offer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:00:06.734623",
+  "name": "No Answer",
+  "style": "",
+  "workflow_state_name": "No Answer"
  },
  {
   "docstatus": 0,
@@ -124,5 +142,23 @@
   "name": "Find Contact",
   "style": "",
   "workflow_state_name": "Find Contact"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:08:27.613899",
+  "name": "Mail Discriminator",
+  "style": "",
+  "workflow_state_name": "Mail Discriminator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 12:59:18.136699",
+  "name": "Wait Answer",
+  "style": "",
+  "workflow_state_name": "Wait Answer"
  }
 ]

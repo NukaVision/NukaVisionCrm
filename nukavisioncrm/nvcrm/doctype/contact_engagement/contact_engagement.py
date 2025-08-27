@@ -3,11 +3,7 @@
 
 # import frappe
 from frappe.model.document import Document
-import frappe
-from frappe.model.workflow import get_transitions, apply_workflow
 
-class Company(Document):
-	def before_save(self):
-		pass
-		# frappe.throw("aaa")
-		
+
+class ContactEngagement(Document):
+	pass

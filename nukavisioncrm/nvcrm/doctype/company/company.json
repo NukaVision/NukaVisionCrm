@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:company_name",
+ "autoname": "format:{company_name}",
  "creation": "2025-08-25 13:16:51.048974",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -11,16 +11,19 @@
   "short_name",
   "registration_number",
   "tax_office",
-  "address_information_section",
-  "address",
   "contact_list_section",
-  "table_umrz",
+  "table_contact",
+  "primary_contact_section",
+  "primary_contact",
+  "column_break_nrmm",
   "offer_list_section",
   "table_wkcf",
   "crm_section",
   "account_manager",
-  "status",
-  "notes"
+  "status_workflow",
+  "notes",
+  "address_information_section",
+  "address"
  ],
  "fields": [
   {
@@ -68,12 +71,6 @@
    "options": "User"
   },
   {
-   "fieldname": "status",
-   "fieldtype": "Link",
-   "label": "Status",
-   "options": "Workflow State"
-  },
-  {
    "fieldname": "notes",
    "fieldtype": "Text Editor",
    "label": "Notes"
@@ -90,11 +87,6 @@
    "label": "Contact List"
   },
   {
-   "fieldname": "table_umrz",
-   "fieldtype": "Table",
-   "options": "Contact Link"
-  },
-  {
    "fieldname": "offer_list_section",
    "fieldtype": "Section Break",
    "label": "Offer List"
@@ -103,16 +95,42 @@
    "fieldname": "table_wkcf",
    "fieldtype": "Table",
    "options": "Offer Link"
+  },
+  {
+   "fieldname": "table_contact",
+   "fieldtype": "Table",
+   "options": "Contact Link"
+  },
+  {
+   "fieldname": "primary_contact",
+   "fieldtype": "Link",
+   "label": "Primary Engagement",
+   "options": "Contact Engagement"
+  },
+  {
+   "fieldname": "primary_contact_section",
+   "fieldtype": "Section Break",
+   "label": "Engagement"
+  },
+  {
+   "fieldname": "column_break_nrmm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "status_workflow",
+   "fieldtype": "Link",
+   "label": "Status Workflow",
+   "options": "Workflow State"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-26 00:26:45.620213",
+ "modified": "2025-08-27 14:23:17.810469",
  "modified_by": "Administrator",
  "module": "nvcrm",
  "name": "Company",
- "naming_rule": "By fieldname",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {

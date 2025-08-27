@@ -7,14 +7,11 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "informations_section",
   "first_name",
   "last_name",
   "phone",
   "email_id",
-  "job_title",
-  "crm_section",
-  "status"
+  "job_title"
  ],
  "fields": [
   {
@@ -43,30 +40,13 @@
    "fieldname": "job_title",
    "fieldtype": "Data",
    "label": "Job Title"
-  },
-  {
-   "fieldname": "informations_section",
-   "fieldtype": "Section Break",
-   "label": "Informations"
-  },
-  {
-   "fieldname": "crm_section",
-   "fieldtype": "Section Break",
-   "label": "CRM"
-  },
-  {
-   "fieldname": "status",
-   "fieldtype": "Link",
-   "label": "Status",
-   "options": "Workflow State",
-   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-25 22:53:21.850710",
- "modified_by": "yunus.akdal@gmail.com",
+ "modified": "2025-08-25 15:11:19.466942",
+ "modified_by": "Administrator",
  "module": "nvcrm",
  "name": "Contact Information",
  "naming_rule": "Expression",
