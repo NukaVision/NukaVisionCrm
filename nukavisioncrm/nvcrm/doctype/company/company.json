@@ -21,6 +21,7 @@
   "crm_section",
   "account_manager",
   "status_workflow",
+  "retry_after",
   "notes",
   "address_information_section",
   "address"
@@ -121,12 +122,17 @@
    "fieldtype": "Link",
    "label": "Status Workflow",
    "options": "Workflow State"
+  },
+  {
+   "fieldname": "retry_after",
+   "fieldtype": "Date",
+   "label": "Retry After"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-27 14:23:17.810469",
+ "modified": "2025-08-27 17:27:02.746817",
  "modified_by": "Administrator",
  "module": "nvcrm",
  "name": "Company",
