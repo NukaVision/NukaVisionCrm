@@ -20,7 +20,7 @@ def get_log():
             pass
     return log
 
-def debug_probe(msg: str,level: int=logging.INFO):
+def debug_probe(msg: str,level: int=logging.DEBUG):
     log = get_log()
     log.setLevel(level)
 

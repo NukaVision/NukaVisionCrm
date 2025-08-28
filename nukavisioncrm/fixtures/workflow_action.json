@@ -315,8 +315,8 @@
   "workflow_state": "New Company"
  },
  {
-  "completed_by": null,
-  "completed_by_role": null,
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
   "docstatus": 0,
   "doctype": "Workflow Action",
   "modified": "2025-08-27 15:02:28.292833",
@@ -331,7 +331,7 @@
   ],
   "reference_doctype": "Company",
   "reference_name": "1",
-  "status": "Open",
+  "status": "Completed",
   "user": null,
   "workflow_state": "Find Contact"
  },
@@ -376,5 +376,1412 @@
   "status": "Open",
   "user": null,
   "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 16:54:14.554409",
+  "name": "3216oleovo",
+  "permitted_roles": [
+   {
+    "parent": "3216oleovo",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000010",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 17:12:21.110219",
+  "name": "dljmd07dab",
+  "permitted_roles": [
+   {
+    "parent": "dljmd07dab",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000011",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 23:23:13.291203",
+  "name": "6vct3emf55",
+  "permitted_roles": [
+   {
+    "parent": "6vct3emf55",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000012",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 23:26:18.196191",
+  "name": "8p65tq9972",
+  "permitted_roles": [
+   {
+    "parent": "8p65tq9972",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000013",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 23:36:32.667763",
+  "name": "ep6vv4cb70",
+  "permitted_roles": [
+   {
+    "parent": "ep6vv4cb70",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "1",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Stalled"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-27 23:39:03.418935",
+  "name": "g8avjbo2qj",
+  "permitted_roles": [
+   {
+    "parent": "g8avjbo2qj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000014",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 00:14:31.415273",
+  "name": "51aa3ovpk2",
+  "permitted_roles": [
+   {
+    "parent": "51aa3ovpk2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000015",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 00:15:05.993871",
+  "name": "5c41vr65jd",
+  "permitted_roles": [
+   {
+    "parent": "5c41vr65jd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000016",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 00:21:03.738944",
+  "name": "8rt5nrf1pm",
+  "permitted_roles": [
+   {
+    "parent": "8rt5nrf1pm",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 00:26:12.783583",
+  "name": "bsfgi0gbl5",
+  "permitted_roles": [
+   {
+    "parent": "bsfgi0gbl5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 00:26:15.625846",
+  "name": "btcsthnbd8",
+  "permitted_roles": [
+   {
+    "parent": "btcsthnbd8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000017",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:13:44.473877",
+  "name": "7nksbm1joe",
+  "permitted_roles": [
+   {
+    "parent": "7nksbm1joe",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000018",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:16:18.719489",
+  "name": "97rgav8q13",
+  "permitted_roles": [
+   {
+    "parent": "97rgav8q13",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000019",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:22:01.095816",
+  "name": "cirjkhkpb2",
+  "permitted_roles": [
+   {
+    "parent": "cirjkhkpb2",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000020",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:49:00.507558",
+  "name": "sct5snk9pn",
+  "permitted_roles": [
+   {
+    "parent": "sct5snk9pn",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:49:21.167178",
+  "name": "sjb2kcg1nk",
+  "permitted_roles": [
+   {
+    "parent": "sjb2kcg1nk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:49:24.286104",
+  "name": "skac4inilh",
+  "permitted_roles": [
+   {
+    "parent": "skac4inilh",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "1-Yunus-AKDAL-00004-engagement-000021",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:53:32.504716",
+  "name": "v1t5moa21t",
+  "permitted_roles": [
+   {
+    "parent": "v1t5moa21t",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Company"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:53:37.857487",
+  "name": "v3ikiipf8k",
+  "permitted_roles": [
+   {
+    "parent": "v3ikiipf8k",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Find Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:54:51.922785",
+  "name": "vqnn5r8vsi",
+  "permitted_roles": [
+   {
+    "parent": "vqnn5r8vsi",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:55:54.248038",
+  "name": "0e6cgks6rc",
+  "permitted_roles": [
+   {
+    "parent": "0e6cgks6rc",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:55:55.778466",
+  "name": "0elqmk0315",
+  "permitted_roles": [
+   {
+    "parent": "0elqmk0315",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000022",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 01:56:27.618083",
+  "name": "0oks4cc9l0",
+  "permitted_roles": [
+   {
+    "parent": "0oks4cc9l0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "2",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:01:01.338043",
+  "name": "3e5io94ri0",
+  "permitted_roles": [
+   {
+    "parent": "3e5io94ri0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000023",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:01:10.789873",
+  "name": "3h37a9l1s0",
+  "permitted_roles": [
+   {
+    "parent": "3h37a9l1s0",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Company",
+  "reference_name": "2",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Stalled"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:01:43.459105",
+  "name": "3ra4v7a86c",
+  "permitted_roles": [
+   {
+    "parent": "3ra4v7a86c",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000024",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:02:32.111004",
+  "name": "4ahkvqpttu",
+  "permitted_roles": [
+   {
+    "parent": "4ahkvqpttu",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:02:56.174861",
+  "name": "4i1sqgg537",
+  "permitted_roles": [
+   {
+    "parent": "4i1sqgg537",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:02:57.489999",
+  "name": "4ifq6o0t18",
+  "permitted_roles": [
+   {
+    "parent": "4ifq6o0t18",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000025",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:18:46.842521",
+  "name": "dr4fq80074",
+  "permitted_roles": [
+   {
+    "parent": "dr4fq80074",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:19:07.554250",
+  "name": "e1jbtlfrpd",
+  "permitted_roles": [
+   {
+    "parent": "e1jbtlfrpd",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:19:09.342121",
+  "name": "e25mio29ap",
+  "permitted_roles": [
+   {
+    "parent": "e25mio29ap",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000026",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:25:37.010441",
+  "name": "hra3c46ski",
+  "permitted_roles": [
+   {
+    "parent": "hra3c46ski",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:26:17.747727",
+  "name": "i81t06apjs",
+  "permitted_roles": [
+   {
+    "parent": "i81t06apjs",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:26:19.686519",
+  "name": "i8kpovt2a9",
+  "permitted_roles": [
+   {
+    "parent": "i8kpovt2a9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000027",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:27:09.671349",
+  "name": "io8u7ornf9",
+  "permitted_roles": [
+   {
+    "parent": "io8u7ornf9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:27:22.628382",
+  "name": "isaedk5pop",
+  "permitted_roles": [
+   {
+    "parent": "isaedk5pop",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:27:25.881408",
+  "name": "itarhf9gf5",
+  "permitted_roles": [
+   {
+    "parent": "itarhf9gf5",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000028",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:33:11.529533",
+  "name": "m9bifob3d9",
+  "permitted_roles": [
+   {
+    "parent": "m9bifob3d9",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:36:53.005382",
+  "name": "oeist1j2j3",
+  "permitted_roles": [
+   {
+    "parent": "oeist1j2j3",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:36:54.642708",
+  "name": "of2q3e0j0o",
+  "permitted_roles": [
+   {
+    "parent": "of2q3e0j0o",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000029",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:40:59.728299",
+  "name": "qrlfe7n1bj",
+  "permitted_roles": [
+   {
+    "parent": "qrlfe7n1bj",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000030",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:41:09.745061",
+  "name": "qupbj71tj8",
+  "permitted_roles": [
+   {
+    "parent": "qupbj71tj8",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000030",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:41:11.202093",
+  "name": "qv8u8p2f4n",
+  "permitted_roles": [
+   {
+    "parent": "qv8u8p2f4n",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000030",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:44:17.162695",
+  "name": "spbnquqith",
+  "permitted_roles": [
+   {
+    "parent": "spbnquqith",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000030",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Go Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:45:06.716343",
+  "name": "t8r2qk496p",
+  "permitted_roles": [
+   {
+    "parent": "t8r2qk496p",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000030",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Go End"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:49:19.683121",
+  "name": "vnsip0a8na",
+  "permitted_roles": [
+   {
+    "parent": "vnsip0a8na",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:49:37.089465",
+  "name": "vtap6e9gjp",
+  "permitted_roles": [
+   {
+    "parent": "vtap6e9gjp",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:49:38.312881",
+  "name": "vtnvoud645",
+  "permitted_roles": [
+   {
+    "parent": "vtnvoud645",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000031",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 02:49:39.495600",
+  "name": "vu3userui4",
+  "permitted_roles": [
+   {
+    "parent": "vu3userui4",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000031",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Go Offer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:32:10.073090",
+  "name": "or4tq1b6ei",
+  "permitted_roles": [
+   {
+    "parent": "or4tq1b6ei",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000032",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:32:24.267310",
+  "name": "oviebomf9k",
+  "permitted_roles": [
+   {
+    "parent": "oviebomf9k",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000032",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:32:26.741187",
+  "name": "p0b22qrm4d",
+  "permitted_roles": [
+   {
+    "parent": "p0b22qrm4d",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000032",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:32:28.716729",
+  "name": "p0v3plkqaf",
+  "permitted_roles": [
+   {
+    "parent": "p0v3plkqaf",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000032",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Go Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:32:39.501159",
+  "name": "p4bkdpl605",
+  "permitted_roles": [
+   {
+    "parent": "p4bkdpl605",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000033",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:40:12.655888",
+  "name": "thuj3q5vmk",
+  "permitted_roles": [
+   {
+    "parent": "thuj3q5vmk",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000034",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:40:15.374343",
+  "name": "tipkofa50d",
+  "permitted_roles": [
+   {
+    "parent": "tipkofa50d",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000035",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:40:18.372919",
+  "name": "tjn1l4jqgg",
+  "permitted_roles": [
+   {
+    "parent": "tjn1l4jqgg",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000036",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:42:16.877002",
+  "name": "uoolduo3fq",
+  "permitted_roles": [
+   {
+    "parent": "uoolduo3fq",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000037",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:42:23.535025",
+  "name": "uqr12b21hg",
+  "permitted_roles": [
+   {
+    "parent": "uqr12b21hg",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000038",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:42:27.286342",
+  "name": "us0qonnbms",
+  "permitted_roles": [
+   {
+    "parent": "us0qonnbms",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000039",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:43:38.645576",
+  "name": "viaesktg8n",
+  "permitted_roles": [
+   {
+    "parent": "viaesktg8n",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000040",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:49:16.160785",
+  "name": "2rpt7hf9lg",
+  "permitted_roles": [
+   {
+    "parent": "2rpt7hf9lg",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000041",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "New Contact"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:51:04.045635",
+  "name": "3tgncea5b6",
+  "permitted_roles": [
+   {
+    "parent": "3tgncea5b6",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000041",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Wait Answer"
+ },
+ {
+  "completed_by": "Administrator",
+  "completed_by_role": "All",
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:51:05.553558",
+  "name": "3tvpkfafaq",
+  "permitted_roles": [
+   {
+    "parent": "3tvpkfafaq",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000041",
+  "status": "Completed",
+  "user": null,
+  "workflow_state": "Mail Discriminator"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:51:06.675077",
+  "name": "3ua1oaegue",
+  "permitted_roles": [
+   {
+    "parent": "3ua1oaegue",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000041",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "Go Offer"
+ },
+ {
+  "completed_by": null,
+  "completed_by_role": null,
+  "docstatus": 0,
+  "doctype": "Workflow Action",
+  "modified": "2025-08-28 03:57:30.479381",
+  "name": "7m899839ku",
+  "permitted_roles": [
+   {
+    "parent": "7m899839ku",
+    "parentfield": "permitted_roles",
+    "parenttype": "Workflow Action",
+    "role": "All"
+   }
+  ],
+  "reference_doctype": "Contact Engagement",
+  "reference_name": "2-Yunus-AKDAL-00004-engagement-000042",
+  "status": "Open",
+  "user": null,
+  "workflow_state": "New Contact"
  }
 ]

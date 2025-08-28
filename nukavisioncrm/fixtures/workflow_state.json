@@ -3,28 +3,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 01:51:43.952779",
-  "name": "Stalled",
-  "style": "",
-  "workflow_state_name": "Stalled"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
-  "modified": "2025-08-27 13:53:10.045720",
-  "name": "Wait Postpone Reminder",
-  "style": "",
-  "workflow_state_name": "Wait Postpone Reminder"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
   "modified": "2025-08-26 01:43:58.931305",
   "name": "Lost",
   "style": "",
   "workflow_state_name": "Lost"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 01:51:43.952779",
+  "name": "Stalled",
+  "style": "",
+  "workflow_state_name": "Stalled"
  },
  {
   "docstatus": 0,
@@ -39,10 +30,10 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:20:03.772312",
-  "name": "Go End",
+  "modified": "2025-08-27 13:53:10.045720",
+  "name": "Wait Postpone Reminder",
   "style": "",
-  "workflow_state_name": "Go End"
+  "workflow_state_name": "Wait Postpone Reminder"
  },
  {
   "docstatus": 0,
@@ -66,10 +57,10 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:00:45.014761",
-  "name": "New Company",
+  "modified": "2025-08-27 13:20:03.772312",
+  "name": "Go End",
   "style": "",
-  "workflow_state_name": "New Company"
+  "workflow_state_name": "Go End"
  },
  {
   "docstatus": 0,
@@ -84,10 +75,10 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 01:54:10.814965",
-  "name": "Offer",
+  "modified": "2025-08-27 13:31:42.157713",
+  "name": "Reason Record",
   "style": "",
-  "workflow_state_name": "Offer"
+  "workflow_state_name": "Reason Record"
  },
  {
   "docstatus": 0,
@@ -102,15 +93,6 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:31:42.157713",
-  "name": "Reason Record",
-  "style": "",
-  "workflow_state_name": "Reason Record"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
   "modified": "2025-08-27 13:19:28.700230",
   "name": "Go Stall",
   "style": "",
@@ -120,10 +102,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:20:34.397517",
-  "name": "Go Offer",
+  "modified": "2025-08-26 00:00:45.014761",
+  "name": "New Company",
   "style": "",
-  "workflow_state_name": "Go Offer"
+  "workflow_state_name": "New Company"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 01:54:10.814965",
+  "name": "Offer",
+  "style": "",
+  "workflow_state_name": "Offer"
  },
  {
   "docstatus": 0,
@@ -138,10 +129,10 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:03:15.442146",
-  "name": "Find Contact",
+  "modified": "2025-08-27 13:20:34.397517",
+  "name": "Go Offer",
   "style": "",
-  "workflow_state_name": "Find Contact"
+  "workflow_state_name": "Go Offer"
  },
  {
   "docstatus": 0,
@@ -160,5 +151,14 @@
   "name": "Wait Answer",
   "style": "",
   "workflow_state_name": "Wait Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-26 00:03:15.442146",
+  "name": "Find Contact",
+  "style": "",
+  "workflow_state_name": "Find Contact"
  }
 ]
