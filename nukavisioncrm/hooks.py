@@ -11,17 +11,18 @@ app_license = "mit"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-add_to_apps_screen = [
-	{
-		"name": "nukavisioncrm",
-		"logo": "/assets/nukavisioncrm/logo.png",
-		"title": "nvcrm",
-		"route": "/nukavisioncrm",
-		"has_permission": "nukavisioncrm.api.permission.has_app_permission"
-	}
-]
+# add_to_apps_screen = [
+# 	{
+# 		"name": "nukavisioncrm",
+# 		"logo": "/assets/nukavisioncrm/logo.png",
+# 		"title": "nvcrm",
+# 		"route": "/nukavisioncrm",
+# 		# "has_permission": "nukavisioncrm.api.permission.has_app_permission"
+# 	}
+# ]
 
 fixtures = [
+    "CRM Settings",
     "Workflow",
     "Workflow Document State",
     "Workflow Transition",
@@ -37,10 +38,13 @@ doc_events = {
         # biz bunu yakalayıp ilk engagement’ı açıyoruz.
         "on_update": "nukavisioncrm.services.company.on_company_update"
     },
-    # "Contact Engagement": {
-    #     # Contact’tan gelen yanıta göre Company’yi ilerleteceğiz
-    #     "on_update": "agency_crm.services.engagement.on_engagement_update"
-    # }
+    "Contact Engagement": {
+        # Contact’tan gelen yanıta göre Company’yi ilerleteceğiz
+        "on_update": "nukavisioncrm.services.ce.on_ce_update"
+    },
+    "CRM Settings": {
+        "on_update": "nukavisioncrm.services.crm_settings.on_update"
+    }
 }
 
 

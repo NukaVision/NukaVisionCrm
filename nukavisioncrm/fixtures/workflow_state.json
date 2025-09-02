@@ -3,6 +3,15 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
+  "modified": "2025-08-28 23:53:23.229203",
+  "name": "Mail Sent",
+  "style": "",
+  "workflow_state_name": "Mail Sent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
   "modified": "2025-08-26 01:43:58.931305",
   "name": "Lost",
   "style": "",
@@ -30,19 +39,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:53:10.045720",
-  "name": "Wait Postpone Reminder",
+  "modified": "2025-08-28 23:45:13.747156",
+  "name": "Wait Follow-up Reminder",
   "style": "",
-  "workflow_state_name": "Wait Postpone Reminder"
+  "workflow_state_name": "Wait Follow-up Reminder"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:33:03.294508",
-  "name": "Wait No Answer Reminder",
+  "modified": "2025-08-28 22:55:35.189985",
+  "name": "Message Arrived",
   "style": "",
-  "workflow_state_name": "Wait No Answer Reminder"
+  "workflow_state_name": "Message Arrived"
  },
  {
   "docstatus": 0,
@@ -66,10 +75,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 12:51:12.045940",
-  "name": "New Contact",
+  "modified": "2025-08-27 13:53:10.045720",
+  "name": "Wait Postpone Reminder",
   "style": "",
-  "workflow_state_name": "New Contact"
+  "workflow_state_name": "Wait Postpone Reminder"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:33:03.294508",
+  "name": "Wait No Answer Reminder",
+  "style": "",
+  "workflow_state_name": "Wait No Answer Reminder"
  },
  {
   "docstatus": 0,
@@ -93,15 +111,6 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:19:28.700230",
-  "name": "Go Stall",
-  "style": "",
-  "workflow_state_name": "Go Stall"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
   "modified": "2025-08-26 00:00:45.014761",
   "name": "New Company",
   "style": "",
@@ -120,10 +129,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 13:00:06.734623",
-  "name": "No Answer",
+  "modified": "2025-08-27 12:51:12.045940",
+  "name": "New Contact",
   "style": "",
-  "workflow_state_name": "No Answer"
+  "workflow_state_name": "New Contact"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 13:19:28.700230",
+  "name": "Go Stall",
+  "style": "",
+  "workflow_state_name": "Go Stall"
  },
  {
   "docstatus": 0,
@@ -138,6 +156,15 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
+  "modified": "2025-08-27 13:00:06.734623",
+  "name": "No Answer",
+  "style": "",
+  "workflow_state_name": "No Answer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
   "modified": "2025-08-27 13:08:27.613899",
   "name": "Mail Discriminator",
   "style": "",
@@ -147,18 +174,18 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-27 12:59:18.136699",
-  "name": "Wait Answer",
+  "modified": "2025-08-26 00:03:15.442146",
+  "name": "Find Contact",
   "style": "",
-  "workflow_state_name": "Wait Answer"
+  "workflow_state_name": "Find Contact"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-08-26 00:03:15.442146",
-  "name": "Find Contact",
+  "modified": "2025-08-27 12:59:18.136699",
+  "name": "Wait Answer",
   "style": "",
-  "workflow_state_name": "Find Contact"
+  "workflow_state_name": "Wait Answer"
  }
 ]

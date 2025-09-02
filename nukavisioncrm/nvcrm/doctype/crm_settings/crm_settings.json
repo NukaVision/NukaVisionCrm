@@ -1,0 +1,92 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-09-02 01:42:02.395200",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "provider",
+  "api_key",
+  "from_email",
+  "from_name",
+  "tracking_domain",
+  "ip_pool",
+  "backup_provider",
+  "backup_api_key",
+  "rate_per_minute"
+ ],
+ "fields": [
+  {
+   "fieldname": "provider",
+   "fieldtype": "Select",
+   "label": "Provider",
+   "options": "sendgrid\nfrappe_smtp"
+  },
+  {
+   "fieldname": "api_key",
+   "fieldtype": "Data",
+   "label": "Api Key"
+  },
+  {
+   "fieldname": "from_email",
+   "fieldtype": "Data",
+   "label": "From Email"
+  },
+  {
+   "fieldname": "from_name",
+   "fieldtype": "Data",
+   "label": "From Name"
+  },
+  {
+   "fieldname": "tracking_domain",
+   "fieldtype": "Data",
+   "label": "Tracking Domain"
+  },
+  {
+   "fieldname": "ip_pool",
+   "fieldtype": "Data",
+   "label": "Ip Pool"
+  },
+  {
+   "fieldname": "backup_provider",
+   "fieldtype": "Select",
+   "label": "Backup Provider",
+   "options": "sendgrid\nfrappe_smtp"
+  },
+  {
+   "fieldname": "backup_api_key",
+   "fieldtype": "Data",
+   "label": "Backup Api Key"
+  },
+  {
+   "fieldname": "rate_per_minute",
+   "fieldtype": "Data",
+   "label": "Rate Per Minute"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-09-02 01:46:02.280384",
+ "modified_by": "Administrator",
+ "module": "nvcrm",
+ "name": "CRM Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

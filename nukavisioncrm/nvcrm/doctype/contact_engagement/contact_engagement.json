@@ -6,13 +6,17 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
+  "engagement_section",
   "company",
   "contact",
   "is_active",
   "priorty",
   "attempt_count",
-  "last_action_at",
-  "status_workflow"
+  "mail_flow_section",
+  "mail_state",
+  "mail_action",
+  "engagement_flow_section",
+  "engagement_state"
  ],
  "fields": [
   {
@@ -44,21 +48,44 @@
    "label": "Attempt Count"
   },
   {
-   "fieldname": "last_action_at",
-   "fieldtype": "Datetime",
-   "label": "Last Action At"
+   "fieldname": "engagement_section",
+   "fieldtype": "Section Break",
+   "label": "Engagement"
   },
   {
-   "fieldname": "status_workflow",
+   "fieldname": "mail_flow_section",
+   "fieldtype": "Section Break",
+   "label": "Mail Flow"
+  },
+  {
+   "fieldname": "engagement_flow_section",
+   "fieldtype": "Section Break",
+   "label": "Engagement Flow"
+  },
+  {
+   "fieldname": "engagement_state",
    "fieldtype": "Link",
-   "label": "Status Workflow",
+   "label": "Engagement State",
    "options": "Workflow State"
+  },
+  {
+   "default": "New Contact",
+   "fieldname": "mail_state",
+   "fieldtype": "Data",
+   "label": "Mail State",
+   "read_only": 1
+  },
+  {
+   "fieldname": "mail_action",
+   "fieldtype": "Data",
+   "label": "Mail Action",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-27 15:08:16.401965",
+ "modified": "2025-09-02 01:06:16.951245",
  "modified_by": "Administrator",
  "module": "nvcrm",
  "name": "Contact Engagement",

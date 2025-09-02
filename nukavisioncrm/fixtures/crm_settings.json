@@ -1,0 +1,17 @@
+[
+ {
+  "api_key": null,
+  "backup_api_key": null,
+  "backup_provider": "frappe_smtp",
+  "docstatus": 0,
+  "doctype": "CRM Settings",
+  "from_email": "yunus.akdal@hotmail.com",
+  "from_name": "Yunus Akdal",
+  "ip_pool": null,
+  "modified": "2025-09-02 01:47:13.026845",
+  "name": "CRM Settings",
+  "provider": "frappe_smtp",
+  "rate_per_minute": null,
+  "tracking_domain": ""
+ }
+]
